@@ -656,6 +656,8 @@ type JSONNull = evaluator.JSONNull
 
 var Null = evaluator.Null
 
+type ConsArray = evaluator.ConsArray
+
 type OrderedMap = evaluator.OrderedMap
 
 func NewOrderedMap() *OrderedMap {
